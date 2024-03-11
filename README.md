@@ -1,1 +1,1 @@
-# weatherwatch-ops
+# weatherwatch-operations

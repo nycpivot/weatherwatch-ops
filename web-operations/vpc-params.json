@@ -1,0 +1,26 @@
+[
+    {
+        "ParameterKey": "VpcId",
+        "ParameterValue": "vpc-04ffa6324c27d7bbe"
+    },
+    {
+        "ParameterKey": "SubnetId1",
+        "ParameterValue": "subnet-0f11b03ed26b8b3e9"
+    },
+    {
+        "ParameterKey": "SubnetId2",
+        "ParameterValue": "subnet-015af47a456ee9d7e"
+    },
+    {
+        "ParameterKey": "SubnetId3",
+        "ParameterValue": "subnet-0f202e6f7a2ecf890"
+    },
+    {
+        "ParameterKey": "SubnetId4",
+        "ParameterValue": "subnet-0285e0f6e3a372222"
+    },
+    {
+        "ParameterKey": "SecurityGroupId",
+        "ParameterValue": "sg-067c74761cdd83388"
+    }
+]
